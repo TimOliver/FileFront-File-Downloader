@@ -1,0 +1,51 @@
+***********************************************
+FileFront File Ripper
+By LJ
+
+Updates made by TiM, 2011
+
+This script is released under public domain.
+
+***********************************************
+
+In 2009, Ziff Davis made an announcement that 
+due to funding, FileFront would be shut down
+and all files it was hosting would be deleted.
+
+In response to this, a massive initiative began
+where many users started downloading all of the files
+off FileFront's various video game subdomains
+in order to save them from digital oblivion.
+
+As part of this initiative, a Python script was hastily
+devised to automate the downloading and archival
+of such files. This script was posted on the UberGames
+forum in 2009, and has been available there since.
+
+At the last second, the original owners of FileFront
+swooped in and purchased FileFront off Ziff Davis,
+saving it.
+
+In late 2011, amidst a rumour that FileFront might 
+potentially be facing another shutdown, I updated
+the original script so it would work with FileFront's
+modern implementation.
+
+***********************************************
+
+I am providing this script, as is, so that people
+may be able to quickly access it in the event another
+mass FileFront-archival initiative becomes necessary.
+
+Please note: Due to the absolute massive amounts
+of bandwidth this script is able to make your system
+consume (On both FileFront's and your own behalf), 
+I would not recommend using this script unless such a time.
+
+Due to the nature of page-scraping, this script
+may stop working at any time.
+
+***********************************************
+
+
+
